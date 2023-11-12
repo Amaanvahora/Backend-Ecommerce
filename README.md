@@ -1,4 +1,4 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+# Full Stack E-Commerce: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 
 
 This repository features a Next.js 13 App Router, React, Tailwind, Prisma, and MySQL stack, creating an inclusive Full Stack E-Commerce + Dashboard & CMS where users can effortlessly manage multiple stores, categories, products, and dynamic content like billboards, all with Clerk Authentication, Stripe integration, and insightful revenue analytics. The robust backend relies on MySQL, Prisma, and PlanetScale for scalability.
 
